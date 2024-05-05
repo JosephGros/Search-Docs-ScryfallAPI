@@ -138,6 +138,19 @@ The search query would be ***e%3Aotc*** like this ***&q=e%3Aotc***. So its impor
 
 ## Precons order in folders
 
+Here is the structure of the folders for all the sets and the included precons. In the precons md file there is a list where the amount is first and then the name of the card. This will make it easier to add a list of cards for the API to fetch so we can give the users the opportunity when they create a deck to choose a commander precon to start with.
+
+Example: <br>
+1 Access Tunnel <br>
+1 Arcane Heist <br>
+1 Arcane Signet <br>
+1 Baleful Mastery <br>
+1 Baleful Strix <br>
+1 Bladegriff Prototype <br>
+1 Brainstealer Dragon <br>
+
+
+### Here's a list of all the folders and ***set*** folders and the ***set*** code for each and also links to the folder.
 
 - **Commander Precons**
     - **2009**
